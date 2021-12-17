@@ -1,0 +1,5 @@
+![Simulator Screen Shot - iPhone X - 2021-12-17 at 19 50 43](https://user-images.githubusercontent.com/96296862/146558451-39b28edc-1014-45b3-9645-9e08eddf86b8.png)
+![Simulator Screen Shot - iPhone X - 2021-12-17 at 19 51 14](https://user-images.githubusercontent.com/96296862/146558554-1a5ba95b-3d6d-4784-86b3-1ebfdb5e3b7b.png)
+![Simulator Screen Shot - iPhone X - 2021-12-17 at 19 51 33](https://user-images.githubusercontent.com/96296862/146558587-5e988070-f247-4ff4-b730-5077c022b3e2.png)
+![Simulator Screen Shot - iPhone X - 2021-12-17 at 19 51 42](https://user-images.githubusercontent.com/96296862/146558592-6152d448-915d-4ca1-8931-284d7bf99e48.png)
+![Simulator Screen Shot - iPhone X - 2021-12-17 at 19 52 02](https://user-images.githubusercontent.com/96296862/146558596-ccc7e643-9f38-4c7b-8cb0-f47a251a47c7.png)
